@@ -27,21 +27,21 @@ const projects = [
   },
   {
     num: '02',
-    category: 'frontend',
+    category: 'html and css',
     title: 'project 2',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Next js" }, { name: "Tailwind css" }, { name: "Node Js" }],
-    image: '/assets/work/work.png',
+    image: '/assets/work/work2.png',
     live: "",
     github: ""
   },
   {
     num: '03',
-    category: 'frontend',
+    category: 'fullstack',
     title: 'project 3',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: '/assets/work/work.png',
+    image: '/assets/work/work3.png',
     live: "",
     github: ""
   },
@@ -51,7 +51,17 @@ const projects = [
     title: 'project 4',
     description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: '/assets/work/work.png',
+    image: '/assets/work/work4.png',
+    live: "",
+    github: ""
+  },
+  {
+    num: '05',
+    category: 'frontend',
+    title: 'project 4',
+    description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
+    image: '/assets/work/work5.png',
     live: "",
     github: ""
   },
